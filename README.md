@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paweł, a computer geek since when I was 8 years old.
+- 👋 Hi, I’m Paweł, a computer geek since when I was 8 years old. My adventure started with Commodore C64, than Amiga 500+ with a mod that allowed to switch Kickstart Rom from 1.3 ( native 500+ ) to 2.0 ( Amiga 600 ) and finally the PC computers. 
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
 - 🌱 Currently I am focused on learning the basics of JS through https://learnjavascript.online/ 28 of 42 chapters.
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
