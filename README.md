@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paweł, computer geek since when I was 8 years old.
+- 👋 Hi, I’m Paweł, a computer geek since when I was 8 years old.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
 - 🌱 Currently I am focused on learning the basics of JS through https://learnjavascript.online/ 28 of 42 chapters.
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
