@@ -16,6 +16,10 @@
      - https://www.free-css.com/free-css-templates/page196/conquer
 -    JS course from Mozilla Developer Network 
      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+-    Pluralsight course 
+     -    HTML5
+     -    CSS3
+     -    JS
 -    Project 'Regeo' - website for a friendly company ( first commercial website)
      - www.regeo.pl
 -    JS course by Jad Joubran ( 28 of 42 )
