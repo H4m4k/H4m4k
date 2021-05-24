@@ -20,12 +20,14 @@
      -    HTML5
      -    CSS3
      -    JS
-+   Project 'Regeo' - website for a friendly company ( first commercial website)
-     - Website [REGEO](www.regeo.pl)
 +    JS course by Jad Joubran ( 28 of 42 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
 +    Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
++    Project 'Regeo' - website for a friendly company ( first commercial website)
+     - Website [REGEO](www.regeo.pl)
++    Project 'Janex' - website for a friendly company ( second commercial website)
+     - Website [JANEX](https://janex.vercel.app/)
 +   FrontendMentor completed challenges 
      -    Newbie level
           -    [Profile card component](https://profile-card-two-psi.vercel.app/)    
