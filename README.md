@@ -24,23 +24,15 @@
      - Website [REGEO](www.regeo.pl)
 +    JS course by Jad Joubran ( 28 of 42 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
-+    Project 'Calculator' - my own challenge of recreating the basic functionality of Microsoft Calculator with a web-app
-     - Script  
 +   FrontendMentor completed challenges 
      -    Newbie level
-          -   Profike [Profile card component](https://profile-card-two-psi.vercel.app/)
-               -    
-          -    FAQ accordion card
-               -    https://faq-accordion-card-snowy-chi.vercel.app/
-          -    Social proof section
-               -    https://social-proof-section-chi-two.vercel.app/
-          -    Article preview component
-               -    https://article-preview-component-nine-plum.vercel.app/
-          -    Intro with sign up
-               -    https://intro-with-sign-up.vercel.app/
+          -    [Profile card component](https://profile-card-two-psi.vercel.app/)    
+          -    [FAQ accordion card](https://faq-accordion-card-snowy-chi.vercel.app/)
+          -    [Social proof section](https://social-proof-section-chi-two.vercel.app/)
+          -    [Article preview component](https://article-preview-component-nine-plum.vercel.app/)
+          -    [Intro with sign up](https://intro-with-sign-up.vercel.app/)
      -    Junior level
-          -    Blogr landing page
-               -    https://blogr-landing-page-cyan.vercel.app/
+          -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
 
 
 ############################
