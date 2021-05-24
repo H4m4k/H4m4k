@@ -9,25 +9,27 @@
 
 ############################
 
--    Current roadmap of my learning progress:
--    Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
-     - https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189
--    Project 'Conquer' - based on Bootstrap free template - by templatemo
-     - https://www.free-css.com/free-css-templates/page196/conquer
--    JS course from Mozilla Developer Network 
-     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
--    Pluralsight course 
+##    Current roadmap of my learning progress:
++   Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
+     - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
++   Project 'Conquer' - based on Bootstrap free template - by templatemo
+     - Template [Conquer](https://www.free-css.com/free-css-templates/page196/conquer)
++    JS course from Mozilla Developer Network 
+     - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
++    Pluralsight course 
      -    HTML5
      -    CSS3
      -    JS
--    Project 'Regeo' - website for a friendly company ( first commercial website)
-     - www.regeo.pl
--    JS course by Jad Joubran ( 28 of 42 )
-     - https://learnjavascript.online/
--    FrontendMentor completed challenges 
++   Project 'Regeo' - website for a friendly company ( first commercial website)
+     - Website [REGEO](www.regeo.pl)
++    JS course by Jad Joubran ( 28 of 42 )
+     - Course [Learnjavascript.online](https://learnjavascript.online/)
++    Project 'Calculator' - my own challenge of recreating the basic functionality of Microsoft Calculator with a web-app
+     - Script  
++   FrontendMentor completed challenges 
      -    Newbie level
-          -    Profile card component
-               -    https://profile-card-two-psi.vercel.app/
+          -   Profike [Profile card component](https://profile-card-two-psi.vercel.app/)
+               -    
           -    FAQ accordion card
                -    https://faq-accordion-card-snowy-chi.vercel.app/
           -    Social proof section
