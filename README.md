@@ -24,6 +24,8 @@
      - Website [REGEO](www.regeo.pl)
 +    JS course by Jad Joubran ( 28 of 42 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
++    Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
+     - [Calculator](https://github.com/H4m4k/Calculator-Object)
 +   FrontendMentor completed challenges 
      -    Newbie level
           -    [Profile card component](https://profile-card-two-psi.vercel.app/)    
