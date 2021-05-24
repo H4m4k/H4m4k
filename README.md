@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
 -    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io.
      -    Each challenge provides the design jpg of the finished project, graphic files required to finish the job and basic html structure with text content.
-     At the moment the most important conclusion is to plan ahead before starting ANY coding, as that will save the trouble of going back and restructuring the design.
+     -    At the moment the most important conclusion is to plan ahead before starting ANY coding, as that will save the trouble of going back and restructuring the design.
+     -    Apart from honing the HTML5, CSS3 and JS skills - FrontendMentor also encourages to use git as often as possible to get used to the version control.
 
 ############################
 
