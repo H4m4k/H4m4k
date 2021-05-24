@@ -3,17 +3,41 @@
 - 🌱 Currently I am focused on learning the basics of JS through https://learnjavascript.online/ 28 of 42 chapters.
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
 -    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io.
--    Each challenge provides the design jpg of the finished project, graphic files required to finish the job and basic html structure with text content.
+     -    Each challenge provides the design jpg of the finished project, graphic files required to finish the job and basic html structure with text content.
      At the moment the most important conclusion is to plan ahead before starting ANY coding, as that will save the trouble of going back and restructuring the design.
--    To see the challenges I have solved please check https://vercel.com/h4m4k or https://www.frontendmentor.io/profile/H4m4k
+     -    To see the challenges I have solved please check https://vercel.com/h4m4k or https://www.frontendmentor.io/profile/H4m4k
 -    I have created a live website for a friendly company - please check www.regeo.pl
 
 
 -    Current roadmap of my learning progress:
 -    Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
      - https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189
--    Project 'Conquer' - based on Bootstrap free template - by 
+-    Project 'Conquer' - based on Bootstrap free template - by templatemo
      - https://www.free-css.com/free-css-templates/page196/conquer
+-    JS course from Mozilla Developer Network 
+     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+-    Project 'Regeo' - website for a friendly company ( first commercial website)
+     - www.regeo.pl
+-    JS course by Jad Joubran ( 28 of 42 )
+     - https://learnjavascript.online/
+-    FrontendMentor completed challenges 
+     -    Newbie level
+          -    Profile card component
+               -    https://profile-card-two-psi.vercel.app/
+          -    FAQ accordion card
+               -    https://faq-accordion-card-snowy-chi.vercel.app/
+          -    Social proof section
+               -    https://social-proof-section-chi-two.vercel.app/
+          -    Article preview component
+               -    https://article-preview-component-nine-plum.vercel.app/
+          -    Intro with sign up
+               -    https://intro-with-sign-up.vercel.app/
+     -    Junior level
+          -    Blogr landing page
+               -    https://blogr-landing-page-cyan.vercel.app/
+
+
+
 
 - 📫 How to reach me - send an email pawel.janik.1983@gmail.com
 - I am also performing tasks on this sites:
