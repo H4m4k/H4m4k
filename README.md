@@ -6,7 +6,7 @@
 -    Each challenge provides the design jpg of the finished project, graphic files required to finish the job and basic html structure with text content.
      At the moment the most important conclusion is to plan ahead before starting ANY coding, as that will save the trouble of going back and restructuring the design.
 -    To see the challenges I have solved please check https://vercel.com/h4m4k or https://www.frontendmentor.io/profile/H4m4k
--    I have sold a live website for a friendly company - please check www.regeo.pl
+-    I have created a live website for a friendly company - please check www.regeo.pl
 
 - 📫 How to reach me - send an email pawel.janik.1983@gmail.com
 - I am also performing tasks on this sites:
