@@ -44,7 +44,6 @@
 - 📫 How to reach me - send an email pawel.janik.1983@gmail.com
 - I am also performing tasks on this sites:
 - https://www.codewars.com/users/H4m4k
-- https://vercel.com/h4m4k - live solutions to FrontendMentor challenges
 <!---
 H4m4k/H4m4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a https://www.codewars.com/dashboard
