@@ -8,6 +8,13 @@
 -    To see the challenges I have solved please check https://vercel.com/h4m4k or https://www.frontendmentor.io/profile/H4m4k
 -    I have created a live website for a friendly company - please check www.regeo.pl
 
+
+-    Current roadmap of my learning progress:
+-    Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
+     - https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189
+-    Project 'Conquer' - based on Bootstrap free template - by 
+     - https://www.free-css.com/free-css-templates/page196/conquer
+
 - 📫 How to reach me - send an email pawel.janik.1983@gmail.com
 - I am also performing tasks on this sites:
 - https://www.codewars.com/users/H4m4k
