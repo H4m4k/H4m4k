@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Paweł, a computer geek since when I was 8 years old. My adventure started with Commodore C64, than Amiga 500+ with a mod that allowed to switch Kickstart Rom from 1.3 ( native 500+ ) to 2.0 ( Amiga 600 ) and finally the PC computers. 
+- 👋 Hi, I’m Paweł, a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
-- 🌱 Currently I am focused on learning the basics of JS through https://learnjavascript.online/ 31 of 42 chapters.
+- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 31 of 42 chapters done.
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
--    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io.
-     -    Each challenge provides the design jpg of the finished project, graphic files required to finish the job and basic html structure with text content.
-     -    At the moment the most important conclusion is to plan ahead before starting ANY coding, as that will save the trouble of going back and restructuring the design.
-     -    Apart from honing the HTML5, CSS3 and JS skills - FrontendMentor also encourages to use git as often as possible to get used to the version control.
+-    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io and www.codingame.com.
+    
 
 ############################
 
