@@ -2,8 +2,11 @@
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
 - 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 31 of 42 chapters done.
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
--    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io and www.codingame.com.
+-    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
     
+- I am also performing tasks on those sites:
+- [Codewars](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
+- [Codingame](https://www.codingame.com/profile/3fb44cc2c2202a03a57cb4026027ba559185324)
 
 ############################
 
@@ -40,9 +43,7 @@
 ############################
 
 - 📫 How to reach me - send an email pawel.janik.1983@gmail.com
-- I am also performing tasks on those sites:
-- [Codewars](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
-- [Codingame](https://www.codingame.com/profile/3fb44cc2c2202a03a57cb4026027ba559185324)
+
 <!---
 H4m4k/H4m4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a https://www.codewars.com/dashboard
