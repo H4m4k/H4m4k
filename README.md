@@ -1,7 +1,15 @@
 # 
 ### Hello I'm Paweł 
-### FrontEnd Web Developer - HTML 5 , CSS 3 , JS
+### FrontEnd Web Developer 
+### ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### [](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
 #
+
+
+
+
 
 - 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
@@ -15,7 +23,7 @@ src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Link
 href="mailto:pawel.janik.1983@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
-[](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
+
 
 #
 ##    Current roadmap of my learning progress:
@@ -47,7 +55,8 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
      -    Junior level
           -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
 
-
+###
+[![H4m4k's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4m4k&count_private=true&theme=vue-dark)](https://github.com/h4m4k/github-readme-stats)
 
 
 <!---
