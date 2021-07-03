@@ -1,4 +1,12 @@
-# Hello I'm Paweł
+# 
+### Hello I'm Paweł 
+### FrontEnd Web Developer - HTML 5 , CSS 3 , JS
+#
+
+- 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
+- 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
+- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 12 of 75 chapters done. (3rd iteration)
+-    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
 
 <a target="_blank"
 href="https://www.linkedin.com/in/pawel--janik"><img
@@ -9,18 +17,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 
 [](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
 
-- 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
-- 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
-- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 12 of 75 chapters done. (3rd iteration)
-- 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
--    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
-    
-- I am also performing tasks on those sites:
-
-- [Codingame](https://www.codingame.com/profile/3fb44cc2c2202a03a57cb4026027ba559185324)
-
-############################
-
+#
 ##    Current roadmap of my learning progress:
 +   Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
      - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
