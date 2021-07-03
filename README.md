@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Paweł, a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
+# Hello I'm Paweł
+
+
+- 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
-- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 31 of 42 chapters done.
+- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 12 of 75 chapters done.
 - 💞️ I’m looking to collaborate on any project i could actually contribute to and earn some experience.
 -    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
     
@@ -21,7 +24,7 @@
      -    HTML5
      -    CSS3
      -    JS
-+    JS course by Jad Joubran ( 31 of 42 )
++    JS course by Jad Joubran ( 12 of 75 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
 +    Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
