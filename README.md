@@ -8,7 +8,7 @@
 -    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
     
 - I am also performing tasks on those sites:
-- [Codewars](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
+- [](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
 - [Codingame](https://www.codingame.com/profile/3fb44cc2c2202a03a57cb4026027ba559185324)
 
 ############################
