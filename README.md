@@ -1,5 +1,13 @@
 # Hello I'm Paweł
 
+<a target="_blank"
+href="https://www.linkedin.com/in/pawel--janik"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+<a target="_blank"
+href="mailto:pawel.janik.1983@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+[](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
 
 - 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
@@ -8,7 +16,7 @@
 -    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
     
 - I am also performing tasks on those sites:
-- [](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
+
 - [Codingame](https://www.codingame.com/profile/3fb44cc2c2202a03a57cb4026027ba559185324)
 
 ############################
@@ -43,9 +51,7 @@
           -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
 
 
-############################
 
-- 📫 How to reach me - send an email pawel.janik.1983@gmail.com
 
 <!---
 H4m4k/H4m4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
