@@ -13,7 +13,7 @@
 
 - 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
-- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/ 13 of 75 chapters done. (3rd iteration)
+- 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/  (3rd iteration)
 -    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
 
 <a target="_blank"
@@ -37,7 +37,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
      -    HTML5
      -    CSS3
      -    JS
-+    JS course by Jad Joubran ( 12 of 75 )
++    JS course by Jad Joubran ( 13 of 75 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
 +    Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
