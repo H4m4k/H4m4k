@@ -37,7 +37,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
      -    HTML5
      -    CSS3
      -    JS
-+    JS course by Jad Joubran ( 13 of 75 )
++    JS course by Jad Joubran ( 16 of 75 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
 +    Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
