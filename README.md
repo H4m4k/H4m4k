@@ -1,5 +1,5 @@
 # 
-## Hello I'm Paweł 
+## Hello I'm Paweł 👋
 ### FrontEnd Web Developer 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -11,10 +11,10 @@
 
 
 
-- 👋 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
+- 🧑 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration. 
 - 🌱 Currently I am focused on learning the basics of JS through website https://learnjavascript.online/  (3rd iteration)
--    In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
+- 🤯  In order to obtain some real-life experience of solving problems in developer environment and developing proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
 
 <a target="_blank"
 href="https://www.linkedin.com/in/pawel--janik"><img
@@ -27,23 +27,23 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 
 #
 ## 🖥️ Current roadmap of my learning progress:
-+   Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
++   📇Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
      - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
-+   Project 'Conquer' - based on Bootstrap free template - by templatemo
++   📇Project 'Conquer' - based on Bootstrap free template - by templatemo
      - Template [Conquer](https://www.free-css.com/free-css-templates/page196/conquer)
-+    JS course from Mozilla Developer Network 
++   📇JS course from Mozilla Developer Network 
      - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-+    Pluralsight course 
++   📇Pluralsight course 
      -    HTML5
      -    CSS3
      -    JS
-+    JS course by Jad Joubran ( 19 of 75 )
++   📇JS course by Jad Joubran ( 19 of 75 )
      - Course [Learnjavascript.online](https://learnjavascript.online/)
-+    Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
++   📇Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
-+   📃 Project 'Regeo' - website for a friendly company ( first commercial website)
++   📇 Project 'Regeo' - website for a friendly company ( first commercial website)
      - Website [REGEO](www.regeo.pl)
-+   📃 Project 'Janex' - website for a friendly company ( second commercial website)
++   📇 Project 'Janex' - website for a friendly company ( second commercial website)
      - Website [JANEX](https://janex.vercel.app/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
