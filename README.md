@@ -41,9 +41,9 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
      - Course [Learnjavascript.online](https://learnjavascript.online/)
 +   📇Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
-+   📇 Project 'Regeo' - website for a friendly company ( first commercial website)
++   📇 Project 'Regeo' - commercial website for a friendly company 
      - Website [REGEO](www.regeo.pl)
-+   📇 Project 'Janex' - website for a friendly company ( second commercial website)
++   📇 Project 'Janex' - commercial website for a friendly company 
      - Website [JANEX](https://janex.vercel.app/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
