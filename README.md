@@ -54,6 +54,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
           -    [Intro with sign up](https://intro-with-sign-up.vercel.app/)
      - 📙   Junior level
           -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
+          -    [Tip calculator app](https://vercel.com/h4m4k/tip-calculator-app-main) - work in progress
 
 ###
 [![H4m4k's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4m4k&count_private=true&theme=vue-dark)](https://github.com/h4m4k/github-readme-stats)
