@@ -42,7 +42,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 +   📇Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
 +   📇 Project 'Regeo' - commercial website for a friendly company 
-     - Website [REGEO](www.regeo.pl)
+     - Website [REGEO](http://www.regeo.pl)
 +   📇 Project 'Janex' - commercial website for a friendly company 
      - Website [JANEX](https://janex.vercel.app/)
 +  📚 FrontendMentor completed challenges 
