@@ -28,20 +28,20 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 #
 ## 🖥️ Current roadmap of my learning progress:
 ### Courses
-+   📇 Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
-           - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
-+   📇 Project 'Conquer' - based on Bootstrap free template - by templatemo
-           - Template [Conquer](https://www.free-css.com/free-css-templates/page196/conquer)
-+   📇 JavaScript course from Mozilla Developer Network 
-            - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-+   📇 JavaScript course by Jad Joubran ( 24 of 75 )
-            - Course [Learnjavascript.online](https://learnjavascript.online/)
-+   📇 Pluralsight course:
-            -    HTML5
-            -    CSS3
-            -    JavaScript
-+   📇 Codecademy course:
-            -    Git
++   📈 Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
+       - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
++   📈 Project 'Conquer' - based on Bootstrap free template - by templatemo
+       - Template [Conquer](https://www.free-css.com/free-css-templates/page196/conquer)
++   📈 JavaScript course from Mozilla Developer Network 
+       - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
++   📈 JavaScript course by Jad Joubran ( 24 of 75 )
+       - Course [Learnjavascript.online](https://learnjavascript.online/)
++   📈 Pluralsight course:
+       -    HTML5
+       -    CSS3
+       -    JavaScript
++   📈 Codecademy course:
+       -    Git
 ### Projects
 +   📇Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
      - [Calculator](https://calculator-object.vercel.app/)
