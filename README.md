@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GIT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ### [](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
 #
 
