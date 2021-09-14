@@ -12,7 +12,6 @@
 
 
 
-
 - 🧑 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64 and went through Amiga and Pentium i486.
 - 👀 I’m a fan of Sci Fi, future technologies and space exploration and love to listen music. 
 - 🌱 Currently I am focused on building proper foundation of JavaScript from [learnjavascript.online](https://learnjavascript.online/)  (my 3rd iteration) to properly start learning a framework.
@@ -25,6 +24,8 @@ src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Link
 href="mailto:pawel.janik.1983@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4m4k&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![H4m4k's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4m4k&count_private=true&theme=vue-dark)](https://github.com/h4m4k/github-readme-stats)
 
 
 #
@@ -63,7 +64,8 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
           -    [Tip calculator app](https://vercel.com/h4m4k/tip-calculator-app-main) - work in progress
 
 ###
-[![H4m4k's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4m4k&count_private=true&theme=vue-dark)](https://github.com/h4m4k/github-readme-stats)
+
+
 
 
 <!---
