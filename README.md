@@ -53,7 +53,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 +   📇 Project 'Janex' - commercial website for a friendly company 
      - Website [JANEX](https://janex.vercel.app/)
 +   📇 Project 'Portfolio' - my own portfolio website 
-     - Website [MMX](https://h4m4k.githun.io/)
+     - Website [MMX](https://h4m4k.github.io/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
           -    [Profile card component](https://profile-card-two-psi.vercel.app/)    
