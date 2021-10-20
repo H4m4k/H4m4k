@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
        - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 +   📈 JavaScript course from Mozilla Developer Network 
        - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-+   📈 JavaScript course by Jad Joubran ( 44 of 75 ) - 3rd iteration 
++   📈 JavaScript course by Jad Joubran ( 50 of 75 ) - 3rd iteration 
        - Course [Learnjavascript.online](https://learnjavascript.online/)
 +   📈 Pluralsight course:
        -    HTML5
