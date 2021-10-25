@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
        - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 +   📈 JavaScript course from Mozilla Developer Network 
        - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-+   📈 JavaScript course by Jad Joubran ( 50 of 75 ) - 3rd iteration 
++   📈 JavaScript course by Jad Joubran ( 51 of 75 ) - 3rd iteration 
        - Course [Learnjavascript.online](https://learnjavascript.online/)
 +   📈 Pluralsight course:
        -    HTML5
@@ -63,7 +63,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
           -    [Intro with sign up](https://intro-with-sign-up.vercel.app/)
      - 📙   Junior level
           -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
-          -    [Tip calculator app](https://vercel.com/h4m4k/tip-calculator-app-main) - work in progress
+          -    [Tip calculator app](https://vercel.com/h4m4k/tip-calculator-app-main)
 
 ###
 
