@@ -64,7 +64,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
      - 📙   Junior level
           -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
           -    [Tip calculator app](https://vercel.com/h4m4k/tip-calculator-app-main)
-
+          -    [Sunny side agency landing page](https://vercel.com/h4m4k/sunnyside-agency-landing-page) - work in progress
 ###
 
 
