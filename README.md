@@ -31,7 +31,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 
 #
 ## 🖥️ Current roadmap of my learning progress:
-### Courses
+### Basics
 +   📈 Books
        - [HTML and CSS: Design and Build Websites' by JON DUCKETT](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
        - [Learning Web Design A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics by Jennifer Niederst Robbins](https://learningwebdesign.com/)
