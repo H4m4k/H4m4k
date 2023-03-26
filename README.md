@@ -32,18 +32,14 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 #
 ## 🖥️ Current roadmap of my learning progress:
 ### Courses
-+   📈 Basic understanding of HTML and CSS - 'HTML and CSS: Design and Build Websites' by JON DUCKETT
-       - Book [HTML and CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
-+   📈 JavaScript course from Mozilla Developer Network 
-       - Course [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-+   📈 JavaScript course by Jad Joubran ( 58 of 75 ) - 3rd iteration 
-       - Course [Learnjavascript.online](https://learnjavascript.online/)
-+   📈 Pluralsight course:
-       -    HTML5
-       -    CSS3
-       -    JavaScript
-+   📈 Codecademy course:
-       -    Git
++   📈 Books
+       - [HTML and CSS: Design and Build Websites' by JON DUCKETT](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+       - [Learning Web Design A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics by Jennifer Niederst Robbins](https://learningwebdesign.com/)
++   📈 Courses
+       - [JavaScript course from Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+       - [JavaScript course by Jad Joubran](https://learnjavascript.online/)
+       - [Pluralsight course HTML,CSS, JavaScript](https://www.pluralsight.com/) 
+       - [Codecademy - Git](https://www.codecademy.com/resources/docs/git)
 ### Projects
 +   📇 Project 'Conquer' - based on Bootstrap free template - by templatemo
      - Template [Conquer](https://www.free-css.com/free-css-templates/page196/conquer)
