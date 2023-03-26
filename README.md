@@ -15,8 +15,7 @@
 
 - 🧑 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64 and went through Amiga and Pentium i486.
 - 👀 I’m a fan of Sci Fi, future technologies, space exploration and love to listen music. 
-- 🌱 Currently I am focused on building proper foundation of JavaScript from [learnjavascript.online](https://learnjavascript.online/)  (my 3rd iteration) to properly start learning a framework.
-- 🤯  To obtain some real-life experience of solving problems in a developer environment and develop proper habits I have started to solve challenges from www.frontendmentor.io, www.codewars.com and www.codingame.com.
+
 
 <a target="_blank"
 href="https://www.linkedin.com/in/pawel--janik"><img
