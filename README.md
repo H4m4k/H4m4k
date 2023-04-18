@@ -40,16 +40,11 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
        - [Pluralsight course HTML,CSS, JavaScript](https://www.pluralsight.com/) 
        - [Codecademy - Git](https://www.codecademy.com/resources/docs/git)
 ### Projects
-+   📇 Project 'Conquer' - based on Bootstrap free template - by templatemo
-     - Template [Conquer](https://www.free-css.com/free-css-templates/page196/conquer)
-+   📇 Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator
-     - [Calculator](https://calculator-object.vercel.app/)
-+   📇 Project 'Regeo' - commercial website for a Surveyor Company - update 12.2021
-     - Website [REGEO](http://www.regeo.pl)
-+   📇 Project 'Janex' - commercial website for a friendly company 
-     - Website [JANEX](https://janex.vercel.app/)
-+   📇 Project 'Portfolio' - my own portfolio website 
-     - Website [MMX](https://h4m4k.github.io/)
++   📇 [Project 'Conquer' - based on Bootstrap free template - by templatemo](https://www.free-css.com/free-css-templates/page196/conquer)
++   📇 [Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator](https://calculator-object.vercel.app/)
++   📇 [Project 'Regeo' - commercial website for a Surveyor Company - update 12.2021](http://www.regeo.pl)
++   📇 [Project 'Janex' - commercial website for a friendly company](https://janex.vercel.app/)
++   📇 [Project 'Portfolio' - my own portfolio website](https://h4m4k.github.io/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
           -    [Profile card component](https://profile-card-two-psi.vercel.app/)    
