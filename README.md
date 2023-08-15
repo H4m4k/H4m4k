@@ -39,6 +39,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
        - [JavaScript course by Jad Joubran](https://learnjavascript.online/)
        - [Pluralsight course HTML,CSS, JavaScript](https://www.pluralsight.com/) 
        - [Codecademy - Git](https://www.codecademy.com/resources/docs/git)
+       - [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/H4m4k/responsive-web-design)
 ### Projects
 +   📇 [Project 'Conquer' - based on Bootstrap free template - by templatemo](https://www.free-css.com/free-css-templates/page196/conquer)
 +   📇 [Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator](https://calculator-object.vercel.app/)
@@ -47,15 +48,10 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 +   📇 [Project 'Portfolio' - my own portfolio website](https://h4m4k.github.io/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
-          -    [Profile card component](https://profile-card-two-psi.vercel.app/)    
-          -    [FAQ accordion card](https://faq-accordion-card-snowy-chi.vercel.app/)
-          -    [Social proof section](https://social-proof-section-chi-two.vercel.app/)
-          -    [Article preview component](https://article-preview-component-nine-plum.vercel.app/)
-          -    [Intro with sign up](https://intro-with-sign-up.vercel.app/)
+          -    [Frontend Mentor - NFT preview card](https://nft-preview-card-component-iota-blue.vercel.app/)
+          -    [Frontend Mentor - Stats preview card](https://stats-preview-chi-blond.vercel.app/)
      - 📙   Junior level
-          -    [Blogr landing page](https://blogr-landing-page-cyan.vercel.app/)
-          -    [Tip calculator app](https://vercel.com/h4m4k/tip-calculator-app-main)
-          -    [Sunny side agency landing page](https://vercel.com/h4m4k/sunnyside-agency-landing-page) - work in progress
+          
 ###
 
 
