@@ -50,7 +50,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
           -    [Frontend Mentor - NFT preview card](https://nft-preview-card-component-iota-blue.vercel.app/)
           -    [Frontend Mentor - Stats preview card](https://stats-preview-chi-blond.vercel.app/)
           -    [Frontend Mentor - Product preview card](https://product-preview-card-murex.vercel.app)
-          -    [Frontend Mentor - FAQ accordion]([https://product-preview-card-murex.vercel.app](https://faq-accordion-main-wxdy.vercel.app/))
+          -    [Frontend Mentor - FAQ accordion]([https://product-preview-card-murex.vercel.app](https://faq-accordion-main-wxdy.vercel.app/)
      - 📙   Junior level
           
 ###
