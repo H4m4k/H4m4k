@@ -41,7 +41,6 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
        - [Codecademy - Git](https://www.codecademy.com/resources/docs/git)
        - [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/H4m4k/responsive-web-design)
 ### Projects
-+   📇 [Project 'Conquer' - based on Bootstrap free template - by templatemo](https://www.free-css.com/free-css-templates/page196/conquer)
 +   📇 [Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator](https://calculator-object.vercel.app/)
 +   📇 [Project 'Regeo' - commercial website for a Surveyor Company - update 09.2023](http://www.regeo.pl)
 +   📇 [Project 'Portfolio' - my own portfolio website](https://h4m4k.github.io/)
