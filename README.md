@@ -43,14 +43,14 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 ### Projects
 +   📇 [Project 'Conquer' - based on Bootstrap free template - by templatemo](https://www.free-css.com/free-css-templates/page196/conquer)
 +   📇 [Project 'Calculator' - designed to gain experience with JS by mirroring basic functionality of Microsoft Calculator](https://calculator-object.vercel.app/)
-+   📇 [Project 'Regeo' - commercial website for a Surveyor Company - update 12.2021](http://www.regeo.pl)
-+   📇 [Project 'Janex' - commercial website for a friendly company](https://janex.vercel.app/)
++   📇 [Project 'Regeo' - commercial website for a Surveyor Company - update 09.2023](http://www.regeo.pl)
 +   📇 [Project 'Portfolio' - my own portfolio website](https://h4m4k.github.io/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
           -    [Frontend Mentor - NFT preview card](https://nft-preview-card-component-iota-blue.vercel.app/)
           -    [Frontend Mentor - Stats preview card](https://stats-preview-chi-blond.vercel.app/)
           -    [Frontend Mentor - Product preview card](https://product-preview-card-murex.vercel.app)
+          -    [Frontend Mentor - FAQ accordion]([https://product-preview-card-murex.vercel.app](https://faq-accordion-main-wxdy.vercel.app/))
      - 📙   Junior level
           
 ###
