@@ -13,8 +13,9 @@
 
 
 
-- 🧑 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C64 and went through Amiga and Pentium i486.
-- 👀 I’m a fan of Sci Fi, future technologies, space exploration and love to listen music. 
+- 🧑 I am a computer geek since when I was 8 years old. My adventure with computers started with Commodore C-64 and includes Amiga 500 , 600 , Pentium i486 or legends as Voodoo 3DFX.
+- 👀 I’m a fan of Sci Fi, future technologies, space exploration and love good music.
+- All my knowledge and skills in terms of programming and Front-End are based on self taught , research and hours poured into learning and understanding Web Development , long story short - you can call it a lean approach
 
 
 <a target="_blank"
