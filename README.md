@@ -52,6 +52,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
           -    [Frontend Mentor - Stats preview card](https://stats-preview-chi-blond.vercel.app/)
           -    [Frontend Mentor - Product preview card](https://product-preview-card-murex.vercel.app)
           -    [Frontend Mentor - FAQ accordion](https://faq-accordion-main-wxdy.vercel.app/)
+          -    [Frontend Mentor - Social proof section](https://social-proof-section-master-eta-six.vercel.app)
      - 📙   Junior level
           
 ###
