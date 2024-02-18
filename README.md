@@ -48,17 +48,17 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 +   📇 [Project 'Portfolio' - my own portfolio website](https://h4m4k.github.io/)
 +  📚 FrontendMentor completed challenges 
      - 📗   Newbie level
-          -    [Frontend Mentor - NFT preview card](https://nft-preview-card-component-iota-blue.vercel.app/)
-          -    [Frontend Mentor - Stats preview card](https://stats-preview-chi-blond.vercel.app/)
-          -    [Frontend Mentor - Product preview card](https://product-preview-card-murex.vercel.app)
-          -    [Frontend Mentor - FAQ accordion](https://faq-accordion-main-wxdy.vercel.app/)
-          -    [Frontend Mentor - Social proof section](https://social-proof-section-master-eta-six.vercel.app)
+          -    [NFT preview card](https://nft-preview-card-component-iota-blue.vercel.app/)
+          -    [Stats preview card](https://stats-preview-chi-blond.vercel.app/)
+          -    [Product preview card](https://product-preview-card-murex.vercel.app)
+          -    [FAQ accordion](https://faq-accordion-main-wxdy.vercel.app/)
+          -    [Social proof section](https://social-proof-section-master-eta-six.vercel.app)
      - 📙   Junior level
-       -    [Frontend Mentor - Clipboard landing page](https://clipboard-landing-page-master-hazel-alpha.vercel.app/)
-       -    [Frontend Mentor - Testimonials grid section](https://testimonials-grid-section-theta-lake.vercel.app/)
-       -    [Frontend Mentor - News Homepage](https://news-homepage-main-lilac.vercel.app/)
-       -    [Frontend Mentor - Newsletter sign up with success message](https://newsletter-sign-up-with-success-message-main-ebon.vercel.app/)
-       -    [Frontend Mentor - Expenses chart](https://expenses-chart-component-main-sigma-azure.vercel.app/)
+       -    [Clipboard landing page](https://clipboard-landing-page-master-hazel-alpha.vercel.app/)
+       -    [Testimonials grid section](https://testimonials-grid-section-theta-lake.vercel.app/)
+       -    [News Homepage](https://news-homepage-main-lilac.vercel.app/)
+       -    [Newsletter sign up with success message](https://newsletter-sign-up-with-success-message-main-ebon.vercel.app/)
+       -    [Expenses chart](https://expenses-chart-component-main-sigma-azure.vercel.app/)
           
 ###
 
