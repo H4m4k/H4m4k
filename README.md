@@ -3,10 +3,11 @@
 ### FrontEnd Web Developer 
 ![](https://img.shields.io/badge/Structure-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=e54d26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0b73ba)
-![](https://img.shields.io/badge/Adv.Style-SASS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=cf649a)
-![](https://img.shields.io/badge/Methodology-BEM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Mechanics-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d9b82d)
-![](https://img.shields.io/badge/VSC-GIT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f05033)
+![](https://img.shields.io/badge/SASS-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0b73ba)
+![](https://img.shields.io/badge/BEM-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0b73ba)
+![](https://img.shields.io/badge/JavaScript-JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d9b82d)
+![](https://img.shields.io/badge/Git-VSC-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=f05033)
+![](https://img.shields.io/badge/Bootstrap-SASS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=cc6699)
 ### [](https://www.codewars.com/users/H4m4k) ![H4m4k](https://www.codewars.com/users/H4m4k/badges/small)
 #
 
