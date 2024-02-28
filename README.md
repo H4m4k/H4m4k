@@ -58,8 +58,8 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
        -    [Testimonials grid section](https://testimonials-grid-section-theta-lake.vercel.app/)
        -    [News Homepage](https://news-homepage-main-lilac.vercel.app/)
        -    [Newsletter sign up with success message](https://newsletter-sign-up-with-success-message-main-ebon.vercel.app/)
-       -    [Expenses chart](https://expenses-chart-component-main-sigma-azure.vercel.app/)
-       -    [Advice generator](https://advice-generator-app-six-flame.vercel.app/) [Repository](https://github.com/H4m4k/advice-generator-app)
+       -    [Expenses chart](https://expenses-chart-component-main-sigma-azure.vercel.app/) [*Repository*](https://github.com/H4m4k/expenses-chart-component-main)
+       -    [Advice generator](https://advice-generator-app-six-flame.vercel.app/) [*Repository*](https://github.com/H4m4k/advice-generator-app)
           
 ###
 
