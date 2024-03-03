@@ -54,14 +54,15 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
           -    [Product preview card](https://product-preview-card-murex.vercel.app)
           -    [FAQ accordion](https://faq-accordion-main-wxdy.vercel.app/)
           -    [Social proof section](https://social-proof-section-master-eta-six.vercel.app)
-     - 📙   Junior level
+     - 📘  Junior level
        -    [Clipboard landing page](https://clipboard-landing-page-master-hazel-alpha.vercel.app/) [*Repository*](https://github.com/H4m4k/clipboard-landing-page-master)
        -    [Testimonials grid section](https://testimonials-grid-section-theta-lake.vercel.app/) [*Repository*](https://github.com/H4m4k/Testimonials-grid-section)
        -    [News Homepage](https://news-homepage-main-lilac.vercel.app/) [*Repository*](https://github.com/H4m4k/news-homepage-main)
        -    [Newsletter sign up with success message](https://newsletter-sign-up-with-success-message-main-ebon.vercel.app/) [*Repository*](https://github.com/H4m4k/newsletter-sign-up-with-success-message-main)
        -    [Expenses chart](https://expenses-chart-component-main-sigma-azure.vercel.app/) [*Repository*](https://github.com/H4m4k/expenses-chart-component-main)
        -    [Advice generator](https://advice-generator-app-six-flame.vercel.app/) [*Repository*](https://github.com/H4m4k/advice-generator-app)
-          
+    - 📙 Intermediate level
+       -    [IP address tracker](https://ip-address-tracker-production.vercel.app/) [*Repository*](https://github.com/H4m4k/ip-address-tracker) 
 ###
 
 
